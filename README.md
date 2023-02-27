@@ -1,2 +1,2 @@
 # YakyubanResult
-VRChat野球盤ワールドの草野球試合結果更新用
+VRChat野球盤ワールドの草野球試合結果更新用画像置き場
