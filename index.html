@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Googleニュースのヘッドライン２</title>
+  <title>Googleニュースのヘッドライン</title>
 </head>
 <body>
-  <h1>Googleニュースのヘッドライン２</h1>
+  <h1>Googleニュースのヘッドライン</h1>
   <ul id="news-headlines"></ul>
 
   <script>
     const url = "https://news.google.com/rss?hl=ja&gl=JP&ceid=JP:ja";
-    const xhr = new XMLHttpRequest();
-    xhr.onreadystatechange = function() {
-      if (this.readyState === 4 && this.status === 200) {
+    fetch(url)
+      .then(response => response.text())
+      .then(data => {
         const parser = new DOMParser();
-        const xml = parser.parseFromString(this.responseText, "application/xml");
+        const xml = parser.parseFromString(data, "application/xml");
         const items = xml.querySelectorAll("item");
         items.forEach(item => {
           const title = item.querySelector("title").textContent;
@@ -21,12 +21,9 @@
           li.textContent = title;
           document.querySelector("#news-headlines").appendChild(li);
         });
-      }
-    };
-    xhr.open("GET", url);
-    xhr.send();
+      })
+      .catch(error => console.log(error));
   </script>
-  
 <!--
 <img src="草野球結果.png" alt="Result1">
 <img src="草野球結果2.png" alt="Result2">
