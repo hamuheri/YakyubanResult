@@ -5,7 +5,7 @@
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
 $(document).ready(function() {
-  $.get("http://k.nhk.jp/knews/new.html", function(data) {
+  $.get("https://news.google.co.jp/", function(data) {
     var headlines = $(data).find(".news-headline");
     headlines.each(function() {
       var text = $(this).text();
