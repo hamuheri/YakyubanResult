@@ -1,10 +1,20 @@
 <!DOCTYPE html>
 <html>
 <body>
-<!--
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
--->
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+$(document).ready(function() {
+  $.get("https://www.example.com/news", function(data) {
+    var headlines = $(data).find(".news-headline");
+    headlines.each(function() {
+      var text = $(this).text();
+      $("#news-headlines").append("<li>" + text + "</li>");
+    });
+  });
+});
+</script>
+  
 <img src="草野球結果.png" alt="Result1">
 <img src="草野球結果2.png" alt="Result2">
 <img src="草野球結果3.png" alt="Result3">
