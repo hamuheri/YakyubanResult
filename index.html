@@ -8,21 +8,27 @@
   <ul id="news-headlines"></ul>
 
   <script>
-    const url = "https://news.google.com/rss?hl=ja&gl=JP&ceid=JP:ja";
-    fetch(url)
-      .then(response => response.text())
-      .then(data => {
-        const parser = new DOMParser();
-        const xml = parser.parseFromString(data, "application/xml");
-        const items = xml.querySelectorAll("item");
-        items.forEach(item => {
-          const title = item.querySelector("title").textContent;
-          const li = document.createElement("li");
-          li.textContent = title;
-          document.querySelector("#news-headlines").appendChild(li);
-        });
-      })
-      .catch(error => console.log(error));
+var headlinesUl = document.getElementById("news-headlines");
+var request = new XMLHttpRequest();
+request.open("GET", "https://news.google.com/rss?hl=ja&gl=JP&ceid=JP:ja", true);
+request.onload = function() {
+  if (request.status >= 200 && request.status < 400) {
+    var data = request.responseXML;
+    var items = data.getElementsByTagName("item");
+    for (var i = 0; i < items.length; i++) {
+      var title = items[i].getElementsByTagName("title")[0].textContent;
+      var li = document.createElement("li");
+      li.textContent = title;
+      headlinesUl.appendChild(li);
+    }
+  } else {
+    console.error("Failed to fetch headlines");
+  }
+};
+request.onerror = function() {
+  console.error("Failed to fetch headlines");
+};
+request.send();
   </script>
 
 <img src="草野球結果.png" alt="Result1">
