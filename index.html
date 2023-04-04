@@ -1,18 +1,20 @@
 <!DOCTYPE html>
 <html>
+<head>
+  <title>Googleニュースのヘッドライン</title>
+</head>
 <body>
-
+  <h1>Googleニュースのヘッドライン</h1>
   <ul id="news-headlines"></ul>
 
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script>
     $(document).ready(function() {
-      $.get("https://www3.nhk.or.jp/news/json16/word/news.json", function(data) {
-        var headlines = data.news[0].items;
-        for(var i = 0; i < headlines.length; i++) {
-          var text = headlines[i].title;
-          $("#news-headlines").append("<li>" + text + "</li>");
-        }
+      $.get("https://news.google.com/rss?hl=ja&gl=JP&ceid=JP:ja", function(data) {
+        $(data).find("item").each(function() {
+          var title = $(this).find("title").text();
+          $("#news-headlines").append("<li>" + title + "</li>");
+        });
       });
     });
   </script>
