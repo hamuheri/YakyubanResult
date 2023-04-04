@@ -2,18 +2,21 @@
 <html>
 <body>
 
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script>
-$(document).ready(function() {
-  $.get("https://news.google.co.jp/", function(data) {
-    var headlines = $(data).find(".news-headline");
-    headlines.each(function() {
-      var text = $(this).text();
-      $("#news-headlines").append("<li>" + text + "</li>");
+  <ul id="news-headlines"></ul>
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+    $(document).ready(function() {
+      $.get("https://www3.nhk.or.jp/news/json16/word/news.json", function(data) {
+        var headlines = data.news[0].items;
+        for(var i = 0; i < headlines.length; i++) {
+          var text = headlines[i].title;
+          $("#news-headlines").append("<li>" + text + "</li>");
+        }
+      });
     });
-  });
-});
-</script>
+  </script>
+  
 <!--
 <img src="草野球結果.png" alt="Result1">
 <img src="草野球結果2.png" alt="Result2">
