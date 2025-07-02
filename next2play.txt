@@ -1,4 +1,4 @@
-/steam
+/////////////////_____steam______/////////////////////
 ヴァーゴ vs ゾディアック
 Killer Frequency
 Battle Chef Brigade
@@ -9,8 +9,7 @@ The Ramp
 Shadows of Doubt
 VR Giants
 Black Skylands
-
-/OtherPlatForm
+////////////////__OtherPlatForm__////////////////////
 スチームワールドディグ 2
 タングルタワー
 Tunic
@@ -20,7 +19,7 @@ Tunche
 DREDGE
 TOEM
 Into the Breach
-
+Paquerette Down the Bunburrows
 oaken
 Spells & Secrets
 Moonlighter
@@ -31,3 +30,12 @@ The Lullaby of Life
 Jupiter Hell
 Berserk Boy
 The Last Spell
+Trinity Fusion
+Spitlings
+Shovel Knight Showdown
+Gravity Circuit
+Once Upon a Jester
+Night Reverie
+Hero's Hour
+Card Shark
+Figment 2: Creed Valley
