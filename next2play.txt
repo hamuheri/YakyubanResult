@@ -10,7 +10,7 @@ Shadows of Doubt
 VR Giants
 Black Skylands
 
-\OtherPlatForm
+/OtherPlatForm
 スチームワールドディグ 2
 タングルタワー
 Tunic
@@ -21,3 +21,13 @@ DREDGE
 TOEM
 Into the Breach
 
+oaken
+Spells & Secrets
+Moonlighter
+Stray Gods: The Roleplaying Musical
+Greak: Memories of Azur
+Deep Sky Derelicts
+The Lullaby of Life
+Jupiter Hell
+Berserk Boy
+The Last Spell
