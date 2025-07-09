@@ -13,6 +13,7 @@ Black Skylands
 スチームワールドディグ 2
 タングルタワー
 Tunic
+New Ice York
 Skatebird
 Shogun Showdown
 Tunche
@@ -39,3 +40,4 @@ Night Reverie
 Figment 2: Creed Valley
 Lenna's Inception
 Vision Soft Reset
+Silver Grapple
