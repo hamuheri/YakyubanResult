@@ -9,6 +9,7 @@ Shadows of Doubt
 VR Giants
 Black Skylands
 The Hex
+Pathfinder: Wrath of the Righteous
 ////////////////__OtherPlatForm__////////////////////
 スチームワールドディグ 2
 タングルタワー
@@ -37,6 +38,7 @@ Figment 2: Creed Valley
 Lenna's Inception
 Vision Soft Reset
 Silver Grapple
+
 
 
 
