@@ -11,33 +11,37 @@ Black Skylands
 The Hex
 Pathfinder: Wrath of the Righteous
 ////////////////__OtherPlatForm__////////////////////
-スチームワールドディグ 2
-タングルタワー
-Tunic
-Shogun Showdown
-Tunche
-DREDGE
-Paquerette Down the Bunburrows
-oaken
-Spells & Secrets
-Moonlighter
-Stray Gods: The Roleplaying Musical
-Greak: Memories of Azur
-Deep Sky Derelicts
-The Lullaby of Life
-Jupiter Hell
-Berserk Boy
-The Last Spell
-Trinity Fusion
-Spitlings
-Shovel Knight Showdown
-Gravity Circuit
-Once Upon a Jester
-Night Reverie
-Figment 2: Creed Valley
-Lenna's Inception
-Vision Soft Reset
-Silver Grapple
+タングルタワー  :itch
+Tunic  :itch
+Lenna's Inception  :itch
+Vision Soft Reset  :itch
+Silver Grapple  :itch
+
+Shogun Showdown  :gog
+oaken  :gog
+Spells & Secrets  :gog
+Moonlighter  :gog
+Stray Gods: The Roleplaying Musical  :gog
+Greak: Memories of Azur  :gog
+Deep Sky Derelicts  :gog
+The Lullaby of Life  :gog
+Jupiter Hell  :gog
+Berserk Boy  :gog
+The Last Spell  :gog
+Once Upon a Jester  :gog
+
+Trinity Fusion  :amazon
+Spitlings  :amazon
+Shovel Knight Showdown  :amazon
+Gravity Circuit  :amazon
+Night Reverie  :amazon
+Figment 2: Creed Valley  :amazon
+スチームワールドディグ 2  :amazon
+Tunche  :amazon
+
+The Dungeon Of Naheulbeuk: The Amulet Of Chaos  :epic
+DREDGE  :epic
+Paquerette Down the Bunburrows  :epic
 
 
 
