@@ -2,7 +2,6 @@
 ヴァーゴ vs ゾディアック
 Killer Frequency
 Battle Chef Brigade
-Hyper Light Drifter
 Where the Water Tastes Like Wine
 Skybolt Zack
 Shadows of Doubt
@@ -10,6 +9,7 @@ VR Giants
 Black Skylands
 The Hex
 Pathfinder: Wrath of the Righteous
+
 ////////////////__OtherPlatForm__////////////////////
 タングルタワー  :itch
 Tunic  :itch
@@ -41,6 +41,7 @@ Tunche  :amazon
 
 DREDGE  :epic
 Paquerette Down the Bunburrows  :epic
+
 
 
 
