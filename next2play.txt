@@ -18,7 +18,6 @@ Pyre   :itch
 
 Shogun Showdown  :gog
 oaken  :gog
-Spells & Secrets  :gog
 Moonlighter  :gog
 Stray Gods: The Roleplaying Musical  :gog
 Greak: Memories of Azur  :gog
@@ -30,21 +29,19 @@ The Last Spell  :gog
 Once Upon a Jester  :gog
 
 Trinity Fusion  :amazon
-Shovel Knight Showdown  :amazon
 Gravity Circuit  :amazon
 Night Reverie  :amazon
 Figment 2: Creed Valley  :amazon
 スチームワールドディグ 2  :amazon
-Tunche  :amazon
 
 DREDGE  :epic
 Paquerette Down the Bunburrows  :epic
 Into the Breach  :epic
 
-
-
-
-
-
-
+////////////////__LoculMulti__////////////////////
+Spells & Secrets  :gog
+Tunche  :amazon
+Shovel Knight Showdown  :amazon
+Goat Simulator 3  :game pass
+Enter the Gungeon  :epic
 
