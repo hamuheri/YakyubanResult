@@ -8,6 +8,8 @@ Shadows of Doubt
 The Hex
 Pathfinder: Wrath of the Righteous
 バベル号ガイドブック
+Terrorbane
+
 ////////////////__OtherPlatForm__////////////////////
 タングルタワー  :itch
 Tunic  :itch
@@ -46,5 +48,6 @@ Tunche  :amazon
 Shovel Knight Showdown  :amazon
 Goat Simulator 3  :game pass
 Enter the Gungeon  :epic
+
 
 
