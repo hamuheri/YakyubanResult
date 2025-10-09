@@ -15,7 +15,6 @@ Chrs 143(
 Shadows of Doubt
 
 ////////////////__OtherPlatForm__////////////////////
-タングルタワー  :itch
 Tunic  :itch
 Lenna's Inception  :itch
 Vision Soft Reset  :itch
@@ -52,6 +51,7 @@ Tunche  :amazon
 Shovel Knight Showdown  :amazon
 Goat Simulator 3  :game pass
 Enter the Gungeon  :epic
+
 
 
 
