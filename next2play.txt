@@ -15,7 +15,6 @@ fantasy general ii
 Shadows of Doubt
 
 ////////////////__OtherPlatForm__////////////////////
-Tunic  :itch
 Lenna's Inception  :itch
 Vision Soft Reset  :itch
 Silver Grapple  :itch
@@ -49,6 +48,7 @@ Against the Storm  :game pass
 Spells & Secrets  :gog
 Shovel Knight Showdown  :amazon
 Enter the Gungeon  :epic
+
 
 
 
