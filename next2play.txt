@@ -6,7 +6,6 @@ Where the Water Tastes Like Wine
 Skybolt Zack
 The Hex
 Pathfinder: Wrath of the Righteous
-バベル号ガイドブック
 OneShot
 Outcore: Desktop Adventure
 Chrs 143(
@@ -48,6 +47,7 @@ Against the Storm  :game pass
 Spells & Secrets  :gog
 Shovel Knight Showdown  :amazon
 Enter the Gungeon  :epic
+
 
 
 
