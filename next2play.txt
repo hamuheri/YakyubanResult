@@ -9,6 +9,7 @@ Pathfinder: Wrath of the Righteous
 OneShot
 Outcore: Desktop Adventure
 Chrs 143(
+Next Space Rebels
 
 fantasy general ii
 Shadows of Doubt
@@ -46,6 +47,7 @@ Against the Storm  :game pass
 Spells & Secrets  :gog
 Shovel Knight Showdown  :amazon
 Enter the Gungeon  :epic
+
 
 
 
