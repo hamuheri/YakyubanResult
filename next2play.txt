@@ -21,7 +21,6 @@ Silver Grapple  :itch
 A Monster's Expedition  :itch
 Pyre   :itch
 
-Shogun Showdown  :gog
 oaken  :gog
 Moonlighter  :gog
 Stray Gods: The Roleplaying Musical  :gog
@@ -48,6 +47,7 @@ Against the Storm  :game pass
 Spells & Secrets  :gog
 Shovel Knight Showdown  :amazon
 Enter the Gungeon  :epic
+
 
 
 
