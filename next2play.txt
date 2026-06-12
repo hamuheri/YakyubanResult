@@ -10,11 +10,9 @@ OneShot
 Outcore: Desktop Adventure
 Chrs 143(
 Next Space Rebels
-tERRORbane
 
 How 2 Escape: Lost Submarine
 in stars and time
-Isle of Swaps
 
 Shadows of Doubt
 Odinfall　
@@ -48,6 +46,7 @@ Paquerette Down the Bunburrows  :epic
 
 Against the Storm  :game pass
 シチズンスリーパー2  :game pass
+crypt custodian game pass :game pass
 ////////////////__LoculMulti__////////////////////
 Spells & Secrets  :gog
 Shovel Knight Showdown  :amazon
