@@ -51,6 +51,7 @@ DREDGE  :epic
 Paquerette Down the Bunburrows  :epic
 Trash Goblin  :epic
 Astral Ascent  :epic
+Luftrausers  :epic
 
 Against the Storm  :game pass
 シチズンスリーパー2  :game pass
