@@ -50,6 +50,7 @@ Figment 2: Creed Valley  :amazon
 DREDGE  :epic
 Paquerette Down the Bunburrows  :epic
 Trash Goblin  :epic
+Astral Ascent  :epic
 
 Against the Storm  :game pass
 シチズンスリーパー2  :game pass
