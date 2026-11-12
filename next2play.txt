@@ -16,6 +16,7 @@ Rekindled Trails
 Mineko's Night Market
 The Iron Oath
 Deadlink
+EVERSPACE
 
 Shadows of Doubt
 I Expect You To Die
@@ -27,7 +28,6 @@ Silver Grapple  :itch
 A Monster's Expedition  :itch
 Pyre   :itch
 
-oaken  :gog
 Moonlighter  :gog
 Stray Gods: The Roleplaying Musical  :gog
 Greak: Memories of Azur  :gog
