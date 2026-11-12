@@ -3,7 +3,6 @@
 Killer Frequency
 Battle Chef Brigade
 Where the Water Tastes Like Wine
-Skybolt Zack
 Pathfinder: Wrath of the Righteous
 OneShot
 Outcore: Desktop Adventure
@@ -13,7 +12,6 @@ How 2 Escape: Lost Submarine
 in stars and time
 trine4
 Rekindled Trails
-Mineko's Night Market
 The Iron Oath
 Deadlink
 EVERSPACE
@@ -34,7 +32,6 @@ Greak: Memories of Azur  :gog
 Deep Sky Derelicts  :gog
 The Lullaby of Life  :gog
 Jupiter Hell  :gog
-Berserk Boy  :gog
 The Last Spell  :gog
 Once Upon a Jester  :gog
 Pyramids and Aliens: Escape Room  :gog
@@ -55,7 +52,7 @@ Luftrausers  :epic
 
 Against the Storm  :game pass
 シチズンスリーパー2  :game pass
-crypt custodian game pass :game pass
+crypt custodian :game pass
 ////////////////__LoculMulti__////////////////////
 Spells & Secrets  :gog
 
